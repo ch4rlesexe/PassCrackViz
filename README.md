@@ -44,7 +44,10 @@ Here’s your updated **📁 Project Structure** section based on your actual di
 Open your terminal and run:
 
 ```bash
-g++ -o cracker main.cpp BruteForceCracker.cpp DictionaryCracker.cpp HashUtils.cpp UIManager.cpp
+mkdir -p build
+cd build
+cmake ..
+make
 ````
 
 This compiles the program into an executable called `cracker`.
