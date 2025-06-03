@@ -1,3 +1,6 @@
+# Showcase Video
+https://youtu.be/7oXeeLxnPug
+
 # 🔐 Password Cracker (C++)
 
 This is a C++ console-based password cracker tool that supports **Brute Force** and **Dictionary Attack** methods. It allows you to input a hashed password (e.g., MD5) and attempts to crack it by comparing it against generated or listed potential matches. This is meant to help people that are learning visualize how such a tool works.
